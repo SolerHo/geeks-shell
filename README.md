@@ -985,7 +985,7 @@ grep [OPTION]... PATTERN [FILE]...      # pattern 可以是要搜索的字符串
 |`-n`|`--line-number`|打印字符匹配所在的行|![](./img/grep打印pattern所在的行.png)|
 |`-o`|`--only-matching`|仅显示匹配的字符串（可以和 `-n` 结合使用）|![](./img/grep仅显示匹配的字符.png)|
 |`-v`|`--invert-match`|小写，显示不匹配字符的内容|![](./img/grep显示不匹配patten的字符内容.png)|
-|`-m`|`--max-count=NUM`|显示匹配字符的某一行的内容，适合绝对匹配|![](./img/)|
+|`-m`|`--max-count=NUM`|显示匹配字符的某一行的内容，适合绝对匹配|![](./img/grep显示匹配pattern的特定内容.png)|
 
 ### 15.3 其他两个常用RE进行的grep操作
 
